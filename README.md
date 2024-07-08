@@ -1,8 +1,8 @@
-# My-RPC-Framework
+# My-RPC
 
 ## 简介
 
-My-RPC-Framework 是一个基于 Java 的 RPC 框架，使用 Netty 进行通信，支持多种序列化方式和注册中心，集成 Spring Boot 实现自动注册和消费服务。
+My-RPC 是一个基于 Java 的 RPC 框架，使用 Netty 进行通信，支持多种序列化方式和注册中心，集成 Spring Boot 实现自动注册和消费服务。
 
 ## 技术栈
 
